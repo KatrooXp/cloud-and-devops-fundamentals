@@ -1,5 +1,4 @@
-# Final-project
-final project on Cloud&amp;DevOps fundamentals course
+## Final project on Cloud&amp;DevOps fundamentals course
 
 Deploying website on AWS cloud with CI/CD pipeline, using version control, automatic infrastracture creation, containirezation and containers orchestration 
 
