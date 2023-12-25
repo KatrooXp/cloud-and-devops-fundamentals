@@ -1,7 +1,7 @@
 # Final-project
 final project on Cloud&amp;DevOps fundamentals course
 
-CI/CD pipeline to launch and implement changes for Katroodesign website
+Deploying website on AWS cloud with CI/CD pipeline, using version control, automatic infrastracture creation, containirezation and containers orchestration 
 
 ## Techonolgy stack
 
